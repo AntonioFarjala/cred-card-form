@@ -21,11 +21,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="rocketpay" src=".github/nu.png" width="100%">
 </p>
 <br>
-<br>
-
-[ 🔗 Clique aqui para acessar](https://antoniofarjala.github.io/cred-card-form)
-
-<br>
 
 
 ## 🚀 Tecnologias
